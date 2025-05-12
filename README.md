@@ -1,3 +1,3 @@
-# Polygon area calculator freeCodeCamp
+# Probability calculator freeCodeCamp
 
-- https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-polygon-area-calculator-project/build-a-polygon-area-calculator-project
+- https://www.freecodecamp.org/learn/scientific-computing-with-python/build-a-probability-calculator-project/build-a-probability-calculator-project
